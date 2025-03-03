@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(49, 4, 250);
+}
+
+header {
+  background: rgb(238, 255, 0);
+  color: rgb(47, 0, 255);
+  padding: 20px 0;
+}
+
+button {
+  background: rgb(238, 255, 0);
+  color: rgb(25, 0, 255);
+  border: none;
+  padding: 10px 15px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid rgb(238, 255, 0);
+  padding: 10px;
+}
+
+th {
+  background: rgb(25, 0, 255);
+  color: rgb(238, 255, 0);
+}
